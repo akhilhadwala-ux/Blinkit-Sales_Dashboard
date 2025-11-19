@@ -103,16 +103,6 @@ To conduct a comprehensive analysis of Blinkit's sales data to identify performa
 - Larger outlets tend to have higher sales performance.
 - Specific product categories like **Dairy** and **Fruits** lead in total revenue.
 
----
-
-## 👨‍💻 Author
-
-**Amarala Ajay Kumar**  
-Aspiring Data Scientist
-📫 [LinkedIn](https://www.linkedin.com/in/ajaykumar-amarala)  
-📂 [Project Repository](https://github.com/Ajaykumar0110/Blinkit-Sales-Analysis)
-
----
 
 ## ⚠️ Disclaimer
 
