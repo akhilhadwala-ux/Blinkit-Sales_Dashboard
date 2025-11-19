@@ -74,8 +74,7 @@ To conduct a comprehensive analysis of Blinkit's sales data to identify performa
 
 ## 📸 Dashboard Preview
 
-<img src="https://github.com/Ajaykumar0110/Blinkit-Sales-Analysis/blob/main/Blinkit_Sales_Analysis.pdf">
-
+https://github.com/akhilhadwala-ux/Blinkit-Sales_Dashboard/blob/main/blinkit_project.pdf
 
 
 ---
