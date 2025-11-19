@@ -88,9 +88,6 @@ https://github.com/akhilhadwala-ux/Blinkit-Sales_Dashboard/blob/main/blinkit_pro
 
 ---
 
-
----
-
 ## 🧠 Key Insights
 
 - High-fat content products drive significant sales volume.
@@ -102,8 +99,6 @@ https://github.com/akhilhadwala-ux/Blinkit-Sales_Dashboard/blob/main/blinkit_pro
 ## ⚠️ Disclaimer
 
 This project is built purely for academic and demonstrative purposes and is not officially affiliated with Blinkit.
-
-
 
 
 ```python
