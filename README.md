@@ -88,10 +88,6 @@ https://github.com/akhilhadwala-ux/Blinkit-Sales_Dashboard/blob/main/blinkit_pro
 
 ---
 
-## 📁 Project Structure
-
-
-
 
 ---
 
