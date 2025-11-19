@@ -99,7 +99,3 @@ https://github.com/akhilhadwala-ux/Blinkit-Sales_Dashboard/blob/main/blinkit_pro
 
 This project is built purely for academic and demonstrative purposes and is not officially affiliated with Blinkit.
 
-
-```python
-
-```
